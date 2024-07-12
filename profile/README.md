@@ -9,24 +9,29 @@ Welcome to Dooders, an open-source initiative dedicated to researching the emerg
 # Projects
 
 ## [Dooders](https://github.com/Dooders/Dooders)
-*In-Development*  
 An open-source project investigating the emergence of intelligent agents within a simulated reality.
 
+*In-Development* 
+
 ## [TimeBandit](https://github.com/Dooders/TimeBandit)
-*In-Development*  
 An object-oriented simulation framework.
 
+*In-Development* 
+
 ## [AnarchyGraph](https://github.com/Dooders/AnarchyGraph)
-*In-Development*  
 A lightweight, decentralized, and node-centric graph system
 
+*In-Development* 
+
 ## [Fizicks](https://github.com/Dooders/Fizicks)
-*In-Development*  
 A state-driven physics model to simulate cause and effect in a physical space.
 
-## [TemporalObject](https://github.com/Dooders/TemporalObject)
-*In-Development*  
+*In-Development* 
+
+## [TemporalObject](https://github.com/Dooders/TemporalObject) 
 A custom object with temporal and versioned states
+
+*In-Development* 
 
 
 
