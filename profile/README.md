@@ -3,13 +3,13 @@ Welcome to Dooders, an open-source initiative dedicated to researching the emerg
 # Foundations
 
 - **Agency**: An entity's capacity to sense and independently process information to achieve its own goals.
-- **Evolution**: Model the processes through which entities adapt, change, and develop over time within a simulated environment.
-- **Autonomy:** Investigate the self-governing behavior of agents and their ability to operate independently.
-- **Cause and Effect**: Analyze and model interactions and relationships between events, where one event (the cause) directly influences or brings about another event (the effect).
-- **Nature and Reality**: Explore and represent the fundamental principles, phenomena, and dynamics of the natural world and the fabric of reality within a simulated environment.
-- **Agent vs Arena**: Study the interactions between autonomous agents and their surrounding environment, focusing on how agents perceive, respond to, and adapt within the constraints and opportunities presented by the arena.
-- **Mind**: Explore and model cognitive processes, decision-making, and consciousness in agents, focusing on how they perceive, interpret, and interact with their environment.
-- **Neural Networks**: Implement and study artificial neural networks to simulate learning, pattern recognition, and decision-making processes in agents, mirroring the functioning of biological brains.
+- **Evolution**: Entities adapt, change, and develop over time within a simulated environment.
+- **Autonomy:** Self-governing behavior of agents and their ability to operate independently.
+- **Cause and Effect**: Interactions and relationships between events, where one event (the cause) directly influences or brings about another event (the effect).
+- **Nature and Reality**: Fundamental principles, phenomena, and dynamics of the natural world and the fabric of reality within a simulated environment.
+- **Agent vs Arena**: Interactions between autonomous agents and their surrounding environment, focusing on how agents perceive, respond to, and adapt within the constraints and opportunities presented by the arena.
+- **Mind**: Cognitive processes, decision-making, and consciousness in agents, focusing on how they perceive, interpret, and interact with their environment.
+- **Neural Networks**: Simulate learning, pattern recognition, and decision-making processes in agents, mimicking the functioning of biological brains.
 
 # Projects
 
