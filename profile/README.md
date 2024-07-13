@@ -14,10 +14,10 @@ Welcome to Dooders, an open-source initiative dedicated to researching the emerg
 # Projects
 
 ## [Dooders](https://github.com/Dooders/Dooders)
-### An open-source project dedicated to exploring the emergence of intelligent agents within a simulated reality. 
+### An open-source agent model. 
 *In-Development* 
 - This project serves as the primary repository for research, development, and results related to the creation and evolution of these agents. 
-- By simulating complex environments and interactions, Dooders aims to advance our understanding of how intelligence can develop and thrive in artificial settings.
+- By simulating complex environments and interactions, Dooders aims to advance the understanding of how intelligence can develop and thrive in artificial settings.
 
 
 ## [TimeBandit](https://github.com/Dooders/TimeBandit)
