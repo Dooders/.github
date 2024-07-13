@@ -42,7 +42,7 @@ Welcome to Dooders, an open-source initiative dedicated to researching the emerg
  - Ideal for applications requiring historical data tracking and state buffering, TemporalObject ensures robust and flexible state management for complex simulations.
 
 # Contributing
-
+Any contributions are welcome! Whether it's bug fixes, new features, or improving documentation, your help is appreciated. Please refer to the CONTRIBUTING.md file in each project repository for guidelines on how to contribute. Or see the general version [here](https://github.com/Dooders/.github/blob/main/CONTRIBUTING.md)
 
 
 # Contact
