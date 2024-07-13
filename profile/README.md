@@ -44,3 +44,6 @@ Welcome to Dooders, an open-source initiative dedicated to researching the emerg
 
 # Contact
 For any inquiries or further information, please contact at doodersai@gmail.com.
+
+# License
+All projects under the Dooders organization are open-source and licensed under the MIT License. See the [LICENSE](https://github.com/Dooders/.github/blob/main/LICENSE) file in each repository for more details.
