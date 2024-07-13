@@ -15,8 +15,7 @@ Welcome to Dooders, an open-source initiative dedicated to researching the emerg
 - By simulating complex environments and interactions, Dooders aims to advance our understanding of how intelligence can develop and thrive in artificial settings.
 
 
-## [TimeBandit](https://github.com/Dooders/TimeBandit):
-
+## [TimeBandit](https://github.com/Dooders/TimeBandit)
 ### An object-oriented simulation framework designed to facilitate the creation, execution, and analysis of temporal simulations. 
 *In-Development* 
 - With robust time travel mechanisms, TimeBandit ensures a consistent and flexible environment for exploring complex, time-dependent scenarios.
