@@ -10,7 +10,7 @@ Welcome to Dooders, an open-source initiative dedicated to researching the emerg
 - **Agent vs Arena**: Interactions between agents and their surrounding environment, focusing on how agents perceive, respond to, and adapt within the constraints and opportunities presented by the arena.
 - **Mind**: Cognitive processes, decision-making, and consciousness in agents, focusing on how they perceive, interpret, and interact with their environment.
 - **Neural Networks**: Simulate learning, pattern recognition, and decision-making processes in agents, mimicking the functioning of biological brains. Additionally, they provide a genetic-like substrate for agents to inherit and recombine neural structures with other networks.
-- **Complexity**: Emergent behaviors and interactions arising from the interplay of simple rules and components, leading to sophisticated patterns, self-organization, and adaptive systems within the simulation.
+- **Complexity**: Emergent behaviors and interactions arising from the interplay of simple rules and components, leading to sophisticated patterns, self-organization, and adaptive systems.
 # Projects
 
 ## [Dooders](https://github.com/Dooders/Dooders)
