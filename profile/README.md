@@ -55,7 +55,6 @@ By blending philosophy, art, and technical sophistication, Dooders aims to creat
 # Contributing
 Any contributions are welcome! Whether it's bug fixes, new features, or improving documentation, your help is appreciated. Please refer to the CONTRIBUTING.md file in each project repository for guidelines on how to contribute. Or see the general version [here](https://github.com/Dooders/.github/blob/main/CONTRIBUTING.md)
 
-
 # Contact
 For any inquiries or further information, please contact at doodersai@gmail.com.
 
