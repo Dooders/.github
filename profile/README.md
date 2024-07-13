@@ -11,8 +11,6 @@ Welcome to Dooders, an open-source initiative dedicated to researching the emerg
 - **Mind**: Cognitive processes, decision-making, and consciousness in agents, focusing on how they perceive, interpret, and interact with their environment.
 - **Neural Networks**: Simulate learning, pattern recognition, and decision-making processes in agents, mimicking the functioning of biological brains. Additionally, they provide a genetic-like substrate for agents to inherit and recombine neural structures with other networks.
 - **Complexity**: Emergent behaviors and interactions arising from the interplay of simple rules and components, leading to sophisticated patterns, self-organization, and adaptive systems within the simulation.
-- **Information**: The representation, transmission, and processing of data within the system.
-
 # Projects
 
 ## [Dooders](https://github.com/Dooders/Dooders)
