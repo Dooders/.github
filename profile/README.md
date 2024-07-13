@@ -41,6 +41,9 @@ Welcome to Dooders, an open-source initiative dedicated to researching the emerg
  - This container allows for the precise tracking of state changes over time, enabling detailed version control and temporal analysis. 
  - Ideal for applications requiring historical data tracking and state buffering, TemporalObject ensures robust and flexible state management for complex simulations.
 
+# Contributing
+
+
 
 # Contact
 For any inquiries or further information, please contact at doodersai@gmail.com.
