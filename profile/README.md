@@ -1,10 +1,15 @@
 Welcome to Dooders, an open-source initiative dedicated to researching the emergence of intelligent agents within simulated realities. It's mission is to advance the understanding of agency through comprehensive exploration and experimentation.
 
-# Focus
+# Foundations
 
-- **Decision-Making Processes:** Analyzing how agents make choices within simulated environments.
+- **Agency**: Defining agency as an entity's capacity to sense and independently process information to achieve its own goals.
+- **Evolution**: Modeling the processes through which entities adapt, change, and develop over time within a simulated environment.
 - **Autonomy:** Investigating the self-governing behavior of agents and their ability to operate independently.
-- **Interactions:** Studying the dynamics between agents and their environments, as well as agent-to-agent interactions.
+- **Cause and Effect**: Analyzing and modeling of interactions and relationships between events, where one event (the cause) directly influences or brings about another event (the effect).
+- **Nature and Reality**: Exploration and representation of the fundamental principles, phenomena, and dynamics of the natural world and the fabric of reality within a simulated environment.
+- **Agent vs Arena**: Study of the interactions between autonomous agents and their surrounding environment, focusing on how agents perceive, respond to, and adapt within the constraints and opportunities presented by the arena.
+- **Mind**: Exploring and modeling of cognitive processes, decision-making, and consciousness in agents, focusing on how they perceive, interpret, and interact with their environment.
+- **Neural Networks**: The implementation and study of artificial neural networks to simulate learning, pattern recognition, and decision-making processes in agents, mirroring the functioning of biological brains.
 
 # Projects
 
