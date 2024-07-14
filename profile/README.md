@@ -60,12 +60,3 @@ For any inquiries or further information, please contact at doodersai@gmail.com.
 
 # License
 All projects under the Dooders organization are open-source and licensed under the MIT License. See the [LICENSE](https://github.com/Dooders/.github/blob/main/LICENSE) file in each repository for more details.
-
-
-# New outline
-Have a specific project an each foundations
-1. intro
-2. foundation list with links
-3. agency
-4. evolution
-5. ...
