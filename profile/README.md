@@ -1,5 +1,8 @@
 Welcome to Dooders, an open-source initiative dedicated to researching the emergence of intelligent agents within simulated realities. It's mission is to advance the understanding of agency through comprehensive and ongoing exploration and experimentation.
 
+Want to learn more?
+- add items...
+
 Dooders is not only a technical endeavor but also a philosophical and artistic exploration. It delves into questions about the nature of intelligence, existence, and interaction. The project's philosophical dimension investigates the essence of agency, autonomy, and consciousness, while its artistic aspect seeks to visualize and express the beauty of emergent behaviors and complex systems.
 
 By blending philosophy, art, and technology, Dooders aims to create a rich, multi-layered system that challenges and expands the understanding of intelligence and agency.
