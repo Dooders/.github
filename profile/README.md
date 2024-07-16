@@ -9,7 +9,7 @@ By blending philosophy, art, and technology, Dooders aims to create a rich, mult
 Want to learn more?
 - General goals for the project, or goals for technical, artistic, or philosophical dimensions
 - The ethical considerations.
-- How you can contribute.
+- How you can contribute. Even if you can't code, or want to learn how to.
 - Learn more about the project foundations like Agency, Complexity and Simplicity, The Agent vs Arena relationship, etc.
 - Explore the subprojects: 
 
