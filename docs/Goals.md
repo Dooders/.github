@@ -42,11 +42,9 @@ By achieving these technical goals, Dooders aims to create a powerful and versat
 
 7. **Collaborate with Artists**: To collaborate with visual artists, designers, and other creatives to bring diverse perspectives and artistic skills to the project. This collaboration can help to enrich the simulation with unique artistic insights and approaches.
 
-8. **Exhibit Artistic Works**: To showcase the artistic aspects of the project in galleries, exhibitions, and other public forums. This involves creating standalone art pieces, interactive installations, or multimedia presentations that highlight the artistic achievements of the project.
+8. **Inspire Creativity**: To use the project as a source of inspiration for other artists and creatives, demonstrating the potential for art and technology to intersect in meaningful and innovative ways. This goal aims to encourage further artistic exploration within the realm of simulation and artificial intelligence.
 
-9. **Inspire Creativity**: To use the project as a source of inspiration for other artists and creatives, demonstrating the potential for art and technology to intersect in meaningful and innovative ways. This goal aims to encourage further artistic exploration within the realm of simulation and artificial intelligence.
-
-10. **Reflect on Human Experience**: To use the simulation as a mirror to reflect on the human experience, exploring themes such as autonomy, evolution, and the interplay between individuals and their environment. This artistic goal seeks to provide insights into our own nature and existence through the lens of simulated agents.
+9. **Reflect on Human Experience**: To use the simulation as a mirror to reflect on the human experience, exploring themes such as autonomy, evolution, and the interplay between individuals and their environment. This artistic goal seeks to provide insights into our own nature and existence through the lens of simulated agents.
 
 By achieving these artistic goals, Dooders aims to create a project that is not only technically advanced but also rich in artistic expression, offering a unique blend of science, philosophy, and art that can inspire and captivate a wide audience.
 
