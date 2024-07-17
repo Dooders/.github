@@ -12,7 +12,7 @@ By blending philosophy, art, and technology, Dooders aspires to create a rich, m
 
 - View the [technical](../docs/Goals.md#technical-goals-of-the-dooders-project), [artistic](../docs/Goals.md#artistic-goals-of-the-dooders-project), and [philosophical](../docs/Goals.md#philosophical-goals-of-the-dooders-project) goals.
 - How you can [contribute](../docs/Contributing.md). Even if you can't code, or want to learn how to.
-- Learn more about the project foundations like [Agency](../docs/Foundations.md#agency), [Complexity](../docs/Foundations.md#complexity), and [Simplicity](../docs/Foundations.md#simplicity).
+- Learn more about the project foundations like [Agency](../docs/Foundations.md#agency), [Complexity](../docs/Foundations.md#complexity), and [Neural Networks](../docs/Foundations.md#neuralnetworks).
 
 ## Projects
 
