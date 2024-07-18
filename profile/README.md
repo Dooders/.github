@@ -20,8 +20,6 @@ By blending philosophy, art, and technology, Dooders aspires to create a rich, m
 
 ## Projects
 
----
-
 ***In-Development****
 
 ### [Dooders](https://github.com/Dooders/Dooders)*
