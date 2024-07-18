@@ -4,7 +4,11 @@ Welcome to Dooders, an open-source initiative dedicated to researching the emerg
 
 The project is structured around three core aspects: Technical, Philosophical, and Artistic.
 
-The Technical aspect focuses on leveraging open-source principles, state-of-the-art algorithms, and high-performance architectures. The Philosophical aspect delves into the essence of agency, autonomy, and consciousness, exploring fundamental questions about what it means to be an intelligent agent. Meanwhile, the Artistic aspect aims to visualize and express the beauty of emergent behaviors and complex systems, capturing the intricate interplay of these elements in a visually engaging manner.
+The Technical aspect focuses on leveraging open-source principles, state-of-the-art algorithms, and high-performance architectures. 
+
+The Philosophical aspect delves into the essence of agency, autonomy, and consciousness, exploring fundamental questions about what it means to be an intelligent agent. 
+
+Finally, the Artistic aspect aims to visualize and express the beauty of emergent behaviors and complex systems, capturing the intricate interplay of these elements in a visually engaging manner.
 
 By blending philosophy, art, and technology, Dooders aspires to create a rich, multi-layered system that challenges and expands our understanding of intelligence and agency.
 
