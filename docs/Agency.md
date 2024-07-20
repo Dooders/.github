@@ -40,7 +40,7 @@ Modeling agency is the core function of the project, offering limitless approach
 
 The environment in which an agent exists can be conceptualized as an arena, illustrating the dynamic agent-arena relationship.
 
-The Arena is the context in which agents operate, interact, and adapt, serving as the stage for their experiences and the backdrop for their decision-making and behaviors. It shapes the challenges they face and the opportunities they encounter, influencing their evolution and development. Keep in mind that the arena also changes as the relationship between it and the agent progress.
+The Arena is the context in which agents operate, interact, and adapt, serving as the stage for their experiences and the backdrop for their decision-making and behaviors. It shapes the challenges they face and the opportunities they encounter, influencing their evolution and development. Keep in mind that the arena also changes as the relationship between it and the agent progresses.
 
 ## Measure
 
@@ -50,7 +50,7 @@ The Arena is the context in which agents operate, interact, and adapt, serving a
 - **Information Processing Capacity**: How much information the entity can process within a given time frame, which could be measured in bits for computational systems.
 - **Autonomy Level**: The degree of independence the entity has from external inputs in its decision-making process, potentially quantifiable by examining the ratio of internally generated actions versus externally triggered responses.
 
-Defining agency in this manner provides a concrete, observable framework that applies across both biological organisms and artificial systems, allowing for empirical study and comparison. It shifts the focus from abstract philosophical considerations to tangible, measurable attributes and behaviors, facilitating a more scientific exploration of agency in the physical and informational dimensions.
+Defining agency in this manner provides a concrete, observable framework that applies across both biological organisms and artificial systems, allowing for empirical study and comparison. It shifts the focus from abstract philosophical considerations to tangible, measurable attributes and behaviors, facilitating a more scientific exploration of agency in the physical and digital dimensions.
 
 ## Observe
 
