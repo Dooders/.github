@@ -66,12 +66,5 @@ For any inquiries or further information, please contact at doodersai@gmail.com.
 
 All projects under the Dooders organization are open-source and licensed under the MIT License. See the [LICENSE](https://github.com/Dooders/.github/blob/main/LICENSE) file in each repository for more details.
 
-## Sources and Inspirations
-
-"Free Agents" by Kevin J. Mitchel
-"The Romance of Reality" by Bobby Azarian
-"Designng the Mind" by Ryan A. Bush
-"Artificial Intelligence and Games"
-
 
 
