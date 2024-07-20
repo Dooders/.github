@@ -22,8 +22,8 @@ This capacity exists on a continuum rather than as a binary switch. All life for
 
 It is this ability to acquire, store, and process information that distinguishes life from inanimate matter, with agents continuously processing as long as they exist.
 
-- **Low Agency:** Simple reactive behaviors with minimal processing.
-- **High Agency:** Complex decision-making with significant information processing and foresight.
+- **Low Agency:** Simple reactive behaviors with minimal processing. (bacteria, plants, etc.)
+- **High Agency:** Complex decision-making with significant information processing and foresight. (mammals, reptiles, etc.)
 
 ## Model
 
