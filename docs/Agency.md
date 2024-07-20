@@ -40,7 +40,7 @@ Modeling agency is the core function of the project, offering limitless approach
 
 The environment in which an agent exists can be conceptualized as an arena, illustrating the dynamic agent-arena relationship.
 
-The Arena is the context in which agents operate, interact, and adapt, serving as the stage for their experiences and the backdrop for their decision-making and behaviors. It shapes the challenges they face and the opportunities they encounter, influencing their evolution and development.
+The Arena is the context in which agents operate, interact, and adapt, serving as the stage for their experiences and the backdrop for their decision-making and behaviors. It shapes the challenges they face and the opportunities they encounter, influencing their evolution and development. Keep in mind that the arena also changes as the relationship between it and the agent progress.
 
 ## Measure
 
