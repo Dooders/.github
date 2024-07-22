@@ -16,11 +16,11 @@ In this way, agency represents an active effort pushing back against the univers
 
 ## Define
 
-Agency is the capacity of entities to sense, process information, and act independently to achieve their goals, influenced by their external environment.
+Agency is the capacity of entities to sense and process information, enabling them to act independently along core imperatives. This capacity is strongly influenced by their external environment.
 
-This capacity exists on a continuum rather than as a binary switch. All life forms possess some degree of agency, enabling them to respond adaptively to their surroundings.
+Agency exists on a continuum, not as a binary switch. All life forms possess some degree of agency, allowing them to adaptively respond to their surroundings.
 
-It is this ability to acquire, store, and process information that distinguishes life from inanimate matter, with agents continuously processing as long as they exist.
+The ability to acquire, store, and process information distinguishes life from inanimate matter, with agents continuously engaging in these processes throughout their existence
 
 - **Low Agency:** Simple reactive behaviors with minimal processing. (bacteria, plants, etc.)
 - **High Agency:** Complex decision-making with significant information processing and foresight. (mammals, reptiles, etc.)
