@@ -4,9 +4,9 @@ Welcome to Dooders, an open-source initiative dedicated to researching the emerg
 
 The project is structured around three core aspects: Technical, Philosophical, and Artistic.
 
-The Technical aspect focuses on leveraging open-source principles, state-of-the-art algorithms, and high-performance architectures. 
+The Technical aspect focuses on leveraging open-source principles, state-of-the-art algorithms, and high-performance architectures.
 
-The Philosophical aspect delves into the essence of agency, autonomy, and consciousness, exploring fundamental questions about what it means to be an intelligent agent. 
+The Philosophical aspect delves into the essence of agency, autonomy, and consciousness, exploring fundamental questions about what it means to be an intelligent agent.
 
 Finally, the Artistic aspect aims to visualize and express the beauty of emergent behaviors and complex systems, capturing the intricate interplay of these elements in a visually engaging manner.
 
@@ -32,6 +32,7 @@ By blending philosophy, art, and technology, Dooders aspires to create a rich, m
 #### An object-oriented simulation framework designed to facilitate the creation, execution, and analysis of temporal simulations
 
 - With robust time travel mechanisms, TimeBandit ensures a consistent and flexible environment for exploring complex, time-dependent scenarios.
+- Ideal for projects requiring temporal simulations, TimeBandit provides a comprehensive framework for creating, executing, and analyzing temporal simulations.
 
 ### [AnarchyGraph](https://github.com/Dooders/AnarchyGraph)
 ![Project Status](https://img.shields.io/badge/status-in%20development-orange)
