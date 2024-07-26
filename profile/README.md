@@ -20,36 +20,31 @@ By blending philosophy, art, and technology, Dooders aspires to create a rich, m
 
 ## Projects
 
-### [Dooders](https://github.com/Dooders/Dooders)
-![Project Status](https://img.shields.io/badge/status-in%20development-orange)
+### [Dooders](https://github.com/Dooders/Dooders) ![Project Status](https://img.shields.io/badge/status-in%20development-orange)
 #### An open-source agent model
 
 - This project serves as the primary repository for research, development, and results related to the creation and evolution of these agents.
 - By simulating complex environments and interactions, Dooders aims to advance the understanding of how intelligence can develop and thrive in artificial settings.
 
-### [TimeBandit](https://github.com/Dooders/TimeBandit)
-![Project Status](https://img.shields.io/badge/status-in%20development-orange)
+### [TimeBandit](https://github.com/Dooders/TimeBandit) ![Project Status](https://img.shields.io/badge/status-in%20development-orange)
 #### An object-oriented simulation framework designed to facilitate the creation, execution, and analysis of temporal simulations
 
 - With robust time travel mechanisms, TimeBandit ensures a consistent and flexible environment for exploring complex, time-dependent scenarios.
 - Ideal for projects requiring temporal simulations, TimeBandit provides a comprehensive framework for creating, executing, and analyzing temporal simulations.
 
-### [AnarchyGraph](https://github.com/Dooders/AnarchyGraph)
-![Project Status](https://img.shields.io/badge/status-in%20development-orange)
+### [AnarchyGraph](https://github.com/Dooders/AnarchyGraph) ![Project Status](https://img.shields.io/badge/status-in%20development-orange)
 #### A lightweight and decentralized graph system designed for agent-centric modeling
 
 - Each node in AnarchyGraph is responsible for its own data, state, and behavior, enabling a flexible and autonomous simulation environment.
 - Ideal for projects requiring distributed agent-based simulations, AnarchyGraph empowers nodes to independently manage their interactions and evolutions within the graph.
 
-### [Fizicks](https://github.com/Dooders/Fizicks)
-![Project Status](https://img.shields.io/badge/status-in%20development-orange)
+### [Fizicks](https://github.com/Dooders/Fizicks) ![Project Status](https://img.shields.io/badge/status-in%20development-orange)
 #### A state-driven physics model designed to simulate cause and effect within a physical space
 
 - This foundational deterministic system provides the underlying laws governing interactions and behaviors in the simulation. 
 - While maintaining a degree of simplicity, Fizicks establishes a framework for modeling physical phenomena, making it ideal for creating realistic and consistent environments for various simulations.
 
-### [TemporalObject](https://github.com/Dooders/TemporalObject)
-![Project Status](https://img.shields.io/badge/status-in%20development-orange)
+### [TemporalObject](https://github.com/Dooders/TemporalObject) ![Project Status](https://img.shields.io/badge/status-in%20development-orange)
 #### A custom object designed to encapsulate an agent, providing a comprehensive state management system with full state history and traversal capabilities
 
 - This container allows for the precise tracking of state changes over time, enabling detailed version control and temporal analysis.
