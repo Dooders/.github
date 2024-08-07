@@ -13,10 +13,11 @@ Finally, the Artistic aspect aims to visualize and express the beauty of emergen
 By blending philosophy, art, and technology, Dooders aspires to create a rich, multi-layered, and multi-discipline system that challenges and expands our understanding of intelligence and agency.
 
 # Approach
-Define Agency: Modeling from an Agent and Arena relationship, break down agency into key components such as autonomy, adaptability, problem-solving, social interaction, and self-regulation, resulting in a complex index score.
-Simulation Engine (TimeBandit): Create a dynamic environment where agents face diverse challenges and opportunities, including resource management, environmental changes, and social interactions.
-Evolutionary Algorithm (ContinuousEvolution): Use an evolutionary algorithm to drive agent selection. Agents with higher agency—demonstrated through better adaptation, problem-solving, and interaction—will be selected over those with lower agency.
-Continuous Optimization: Continuously measure and optimize agents' agency, driving them to discover and exploit new niches in the environment, enhancing their intelligence, adaptability, and overall effectiveness.
+
+- Define Agency: Modeling from an Agent and Arena relationship, break down agency into key components such as autonomy, adaptability, problem-solving, social interaction, and self-regulation, resulting in a complex index score.
+- Simulation Engine [TimeBandit](https://github.com/Dooders/TimeBandit): Create a dynamic environment where agents face diverse challenges and opportunities, including resource management, environmental changes, and social interactions.
+- Evolutionary Algorithms [ContinuousEvolution](https://github.com/Dooders/ContinuousEvolution): Use an evolutionary algorithm to drive agent selection. Agents with higher agency—demonstrated through better adaptation, problem-solving, and interaction—will be selected over those with lower agency.
+- Continuous Optimization: Continuously measure and optimize agents' agency, driving them to discover and exploit new niches in the environment, enhancing their intelligence, adaptability, and overall effectiveness.
 
 **Want to learn more?**
 
