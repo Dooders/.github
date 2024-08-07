@@ -9,7 +9,7 @@ Welcome to Dooders, an open-source initiative dedicated to researching the emerg
 - Simulation Engine with [TimeBandit](https://github.com/Dooders/TimeBandit):
   - Create a dynamic environment where agents face diverse challenges and opportunities, including resource management, environmental changes, and social interactions.
 - Evolutionary Algorithms with [ContinuousEvolution](https://github.com/Dooders/ContinuousEvolution):
-  - Use an evolutionary algorithm to drive agent selection. Agents with higher agency—demonstrated through better adaptation, problem-solving, and interaction—will be selected over those with lower agency.
+  - Developing evolutionary algorithms to drive agent selection. Agents with higher agency—demonstrated through better adaptation, problem-solving, and interaction—will be selected over those with lower agency.
 - Continuous Optimization:
   - Continuously measure and optimize agents' agency, driving them to discover and exploit new niches in the environment, enhancing their intelligence, adaptability, and overall effectiveness.
 
