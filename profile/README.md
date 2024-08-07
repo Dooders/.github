@@ -2,6 +2,13 @@
 
 Welcome to Dooders, an open-source initiative dedicated to researching the emergence of intelligent agents within simulated realities. Its mission is to advance the understanding of agency through comprehensive and ongoing exploration and experimentation.
 
+# Approach
+
+- Define Agency: Modeling from an Agent and Arena relationship, break down agency into key components such as autonomy, adaptability, problem-solving, social interaction, and self-regulation, resulting in a complex index score.
+- Simulation Engine [TimeBandit](https://github.com/Dooders/TimeBandit): Create a dynamic environment where agents face diverse challenges and opportunities, including resource management, environmental changes, and social interactions.
+- Evolutionary Algorithms [ContinuousEvolution](https://github.com/Dooders/ContinuousEvolution): Use an evolutionary algorithm to drive agent selection. Agents with higher agency—demonstrated through better adaptation, problem-solving, and interaction—will be selected over those with lower agency.
+- Continuous Optimization: Continuously measure and optimize agents' agency, driving them to discover and exploit new niches in the environment, enhancing their intelligence, adaptability, and overall effectiveness.
+
 The project is structured around three core aspects: Technical, Philosophical, and Artistic.
 
 The Technical aspect focuses on leveraging open-source principles, state-of-the-art algorithms, and high-performance architectures.
@@ -11,13 +18,6 @@ The Philosophical aspect delves into the essence of agency, autonomy, and consci
 Finally, the Artistic aspect aims to visualize and express the beauty of emergent behaviors and complex systems, capturing the intricate interplay of these elements in a visually engaging manner.
 
 By blending philosophy, art, and technology, Dooders aspires to create a rich, multi-layered, and multi-discipline system that challenges and expands our understanding of intelligence and agency.
-
-# Approach
-
-- Define Agency: Modeling from an Agent and Arena relationship, break down agency into key components such as autonomy, adaptability, problem-solving, social interaction, and self-regulation, resulting in a complex index score.
-- Simulation Engine [TimeBandit](https://github.com/Dooders/TimeBandit): Create a dynamic environment where agents face diverse challenges and opportunities, including resource management, environmental changes, and social interactions.
-- Evolutionary Algorithms [ContinuousEvolution](https://github.com/Dooders/ContinuousEvolution): Use an evolutionary algorithm to drive agent selection. Agents with higher agency—demonstrated through better adaptation, problem-solving, and interaction—will be selected over those with lower agency.
-- Continuous Optimization: Continuously measure and optimize agents' agency, driving them to discover and exploit new niches in the environment, enhancing their intelligence, adaptability, and overall effectiveness.
 
 **Want to learn more?**
 
