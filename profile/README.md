@@ -8,13 +8,13 @@ Welcome to Dooders, an open-source initiative focused on researching the emergen
   - Seperating agency into key components such as autonomy, adaptability, problem-solving, social interaction, and self-regulation.
 - Physics inspired deterministic worlds with [Fizicks](https://github.com/Dooders/Fizicks):
   - Modeling reality on the physical laws of the known universe, including the execution of principles such as time and motion.
-- Simulation Engine with [TimeBandit](https://github.com/Dooders/TimeBandit):
+- Simulation engine with [TimeBandit](https://github.com/Dooders/TimeBandit):
   - Developing a library to create and inspect simulations where agents face diverse challenges and opportunities, including resource management, environmental changes, and social interactions.
-- Evolutionary Algorithms with [ContinuousEvolution](https://github.com/Dooders/ContinuousEvolution):
+- Evolutionary algorithms with [ContinuousEvolution](https://github.com/Dooders/ContinuousEvolution):
   - Experimenting with evolutionary algorithms to drive agent selection. Agents with higher agency—demonstrated through better adaptation, problem-solving, and interaction—will be selected over those with lower agency.
 - Autonamous and independent agents with [AnarchyGraph](https://github.com/Dooders/AnarchyGraph):
   - Utilizing a decentralized, node-centric graph system, where each node possesses all the necessary resources to independently fulfill its purpose or perform tasks.
-- Continuous Optimization:
+- Continuous optimization:
   - Measuring and optimizing agents' agency, driving them to discover and exploit new niches in the environment, enhancing their intelligence, adaptability, and overall effectiveness.
 
 The project is structured around three core aspects: Technical, Philosophical, and Artistic.
