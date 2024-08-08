@@ -5,7 +5,7 @@ Welcome to Dooders, an open-source initiative focused on researching the emergen
 # Current Priorities
 
 - Agent and Arena relationship with [Dooders](https://github.com/Dooders/Dooders):
-  - Modeling agency by key components such as autonomy, adaptability, problem-solving, social interaction, and self-regulation.
+  - Seperating agency into key components such as autonomy, adaptability, problem-solving, social interaction, and self-regulation.
 - Physics inspired deterministic worlds with [Fizicks](https://github.com/Dooders/Fizicks):
   - Modeling reality based on the physical laws of the known universe, including the execution of principles such as time and motion.
 - Simulation Engine with [TimeBandit](https://github.com/Dooders/TimeBandit):
