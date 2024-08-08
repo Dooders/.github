@@ -16,14 +16,15 @@ In this way, agency represents an active effort pushing back against the univers
 
 ## Define
 
-Agency is the capacity of entities to sense and process information, enabling them to act independently along core imperatives. This capacity is strongly influenced by their external environment.
+Agency refers to the capacity of entities to sense and process information, enabling them to act independently in accordance with core imperatives. This capacity is not an absolute but exists on a continuum, influenced strongly by the external environment in which these entities operate.
 
-Agency exists on a continuum, not as a binary switch. All life forms possess some degree of agency, allowing them to adaptively respond to their surroundings.
+All life forms exhibit some degree of agency, allowing them to adaptively respond to their surroundings. This adaptive capability is what differentiates life from inanimate matter. Living agents continuously acquire, store, and process information, which informs their actions and responses throughout their existence.
 
-The ability to acquire, store, and process information distinguishes life from inanimate matter, with agents continuously engaging in these processes throughout their existence
+At one end of the spectrum of agency are entities with low agency, such as bacteria and plants. These organisms display simple reactive behaviors with minimal information processing. Their responses to environmental stimuli are often straightforward and immediate, driven by basic survival needs without complex decision-making.
 
-- **Low Agency:** Simple reactive behaviors with minimal processing. (bacteria, plants, etc.)
-- **High Agency:** Complex decision-making with significant information processing and foresight. (mammals, reptiles, etc.)
+At the other end of the spectrum are entities with high agency, including mammals and reptiles. These organisms engage in complex decision-making processes, involving significant information processing and often demonstrating foresight. They can evaluate multiple variables and potential outcomes before acting, reflecting a higher level of cognitive function and behavioral sophistication.
+
+In essence, agency encapsulates the varying degrees of autonomy and complexity in the behaviors of living entities, shaped by their capacity to process information and their environmental context.
 
 ## Model
 
