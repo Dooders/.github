@@ -56,18 +56,27 @@ Quantifying agency involves evaluating several factors that determine the capaci
 
 ## Observe
 
-### Signs of agency
+Signs of agency are indicators that reveal the capacity of an entity to act independently and purposefully. These signs include autonomy, intentionality, adaptability, responsiveness, self-regulation, learning and memory, problem-solving, communication, perception, and persistence.
 
-1. **Autonomy**: The ability to make independent decisions and take actions without external control.
-2. **Intentionality**: Purposeful and goal-directed behavior indicating the presence of objectives or desires.
-3. **Adaptability**: The capacity to adjust behaviors and strategies in response to changing environments or circumstances.
-4. **Responsiveness**: Reacting to stimuli or changes in the environment in a meaningful way.
-5. **Self-regulation**: Managing and controlling one's own actions and internal states to achieve desired outcomes.
-6. **Learning and Memory**: The ability to acquire new knowledge or skills from experience and retain that information for future use.
-7. **Problem-solving**: Identifying challenges and devising effective strategies to overcome them.
-8. **Communication**: The exchange of information with other agents or the environment, indicating a level of understanding and interaction.
-9. **Perception**: Sensing and interpreting the surrounding environment to inform decisions and actions.
-10. **Persistence**: Continuing efforts towards goals despite obstacles or difficulties.
+1. **Autonomy**: The ability to make independent decisions and take actions without external control. This signifies a high degree of self-governance and freedom from outside influences.
+
+2. **Intentionality**: Purposeful and goal-directed behavior that indicates the presence of objectives or desires. Entities with intentionality act with specific outcomes in mind.
+
+3. **Adaptability**: The capacity to adjust behaviors and strategies in response to changing environments or circumstances. Adaptable entities can modify their actions to better suit new conditions.
+
+4. **Responsiveness**: The ability to react to stimuli or changes in the environment in a meaningful way. Responsiveness demonstrates an entity's capacity to sense and appropriately respond to external factors.
+
+5. **Self-regulation**: Managing and controlling one's own actions and internal states to achieve desired outcomes. Self-regulation involves maintaining focus and direction despite potential internal or external disruptions.
+
+6. **Learning and Memory**: The ability to acquire new knowledge or skills from experience and retain that information for future use. This capability allows entities to improve their performance over time and apply past experiences to new situations.
+
+7. **Problem-solving**: Identifying challenges and devising effective strategies to overcome them. Problem-solving showcases an entity's capacity to understand complex situations and find solutions.
+
+8. **Communication**: The exchange of information with other agents or the environment. Effective communication indicates a level of understanding and interaction necessary for coordinating actions and achieving goals.
+
+9. **Perception**: Sensing and interpreting the surrounding environment to inform decisions and actions. Perception provides the necessary information for an entity to navigate and respond to its surroundings.
+
+10. **Persistence**: Continuing efforts towards goals despite obstacles or difficulties. Persistence demonstrates determination and the ability to maintain effort in the face of challenges.
 
 ### Analysis
 
