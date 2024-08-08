@@ -5,15 +5,15 @@ Welcome to Dooders, an open-source initiative focused on researching the emergen
 # Current Priorities
 
 - Model the Agent and Arena relationship with [Dooders](https://github.com/Dooders/Dooders):
-  - Break down agency into key components such as autonomy, adaptability, problem-solving, social interaction, and self-regulation. Resulting in a complex index score.
+  - Breaking down agency into key components such as autonomy, adaptability, problem-solving, social interaction, and self-regulation.
 - Simulation Engine with [TimeBandit](https://github.com/Dooders/TimeBandit):
-  - Create a dynamic environment where agents face diverse challenges and opportunities, including resource management, environmental changes, and social interactions.
+  - Creating a dynamic environment where agents face diverse challenges and opportunities, including resource management, environmental changes, and social interactions.
 - Evolutionary Algorithms with [ContinuousEvolution](https://github.com/Dooders/ContinuousEvolution):
   - Developing evolutionary algorithms to drive agent selection. Agents with higher agency—demonstrated through better adaptation, problem-solving, and interaction—will be selected over those with lower agency.
 - Enable autonamous and independent agents with [AnarchyGraph](https://github.com/Dooders/AnarchyGraph).
   - Using a decentralized and node-centric graph system where a node has everything it needs to act alone to serve its purpose or do its job.
 - Continuous Optimization:
-  - Continuously measure and optimize agents' agency, driving them to discover and exploit new niches in the environment, enhancing their intelligence, adaptability, and overall effectiveness.
+  - Measuring and optimizing agents' agency, driving them to discover and exploit new niches in the environment, enhancing their intelligence, adaptability, and overall effectiveness.
 
 The project is structured around three core aspects: Technical, Philosophical, and Artistic.
 
