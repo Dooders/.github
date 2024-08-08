@@ -28,14 +28,15 @@ In essence, agency encapsulates the varying degrees of autonomy and complexity i
 
 ## Model
 
-Modeling agency is the core function of the project, offering limitless approaches and perspectives to experiment with.
+Components of agency can be broken down into four key elements: sensing, processing, acting, and autonomy. Each of these components plays a crucial role in determining the degree of agency an entity possesses.
 
-### Components of agency
+1. **Sensing**: This is the ability of an entity to gather information from its environment. Sensing involves detecting changes and stimuli that can affect the entity's state or surroundings. This information is the foundation upon which all subsequent processes depend.
 
-1. **Sensing:** The ability to gather information from the environment.
-2. **Processing:** The ability to interpret and make decisions based on the information.
-3. **Acting:** The ability to execute actions that influence the environment to achieve goals.
-4. **Autonomy:** The degree of independence in decision-making and action.
+2. **Processing**: Once information is gathered through sensing, it needs to be interpreted. Processing involves analyzing the information, making decisions based on it, and determining the best course of action. The complexity and efficiency of this processing can vary greatly among different entities, contributing to the spectrum of agency.
+
+3. **Acting**: This component refers to the execution of actions that influence the environment. After processing the information and making decisions, an entity must act to achieve its goals. The effectiveness of these actions depends on the entity's ability to accurately assess situations and respond appropriately.
+
+4. **Autonomy**: Autonomy represents the degree of independence an entity has in its decision-making and actions. High autonomy means that the entity can operate with minimal external influence or control, relying on its own sensing, processing, and acting capabilities to navigate its environment and achieve its objectives.
 
 ### The Arena
 
