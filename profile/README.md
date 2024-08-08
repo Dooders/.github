@@ -2,6 +2,8 @@
 
 Welcome to Dooders, an open-source initiative dedicated to researching the emergence of intelligent agents within simulated realities. Its mission is to advance the understanding of agency through comprehensive and ongoing exploration and experimentation.
 
+The primary goal of the project is to explore and demonstrate the potential value of agent-based-learning.
+
 # Approach
 
 - Model the Agent and Arena relationship with [Dooders](https://github.com/Dooders/Dooders):
