@@ -46,13 +46,13 @@ The Arena is the context in which agents operate, interact, and adapt, serving a
 
 ## Measure
 
-### Quantifying agency
+Quantifying agency involves evaluating several factors that determine the capacity and effectiveness of an entity's autonomous action. Key aspects include decision complexity, information processing capacity, and autonomy level.
 
-- **Decision Complexity**: The complexity of decisions the entity can make, perhaps quantified by the number of variables or dimensions considered in decision-making processes.
-- **Information Processing Capacity**: How much information the entity can process within a given time frame, which could be measured in bits for computational systems.
-- **Autonomy Level**: The degree of independence the entity has from external inputs in its decision-making process, potentially quantifiable by examining the ratio of internally generated actions versus externally triggered responses.
+1. **Decision Complexity**: This refers to the sophistication of decisions an entity can make. It can be quantified by the number of variables or dimensions considered in decision-making processes. Entities with higher decision complexity can evaluate multiple factors and scenarios, leading to more nuanced and informed actions.
 
-Defining agency in this manner provides a concrete, observable framework that applies across both biological organisms and artificial systems, allowing for empirical study and comparison. It shifts the focus from abstract philosophical considerations to tangible, measurable attributes and behaviors, facilitating a more scientific exploration of agency in the physical and digital dimensions.
+2. **Information Processing Capacity**: This measures how much information an entity can process within a given time frame. In computational systems, this capacity is often quantified in bits per second. Higher processing capacity allows an entity to handle larger amounts of data, perform more complex analyses, and make quicker decisions.
+
+3. **Autonomy Level**: The degree of independence from external inputs in the decision-making process. This can be quantified by examining the ratio of internally generated actions versus externally triggered responses. A higher autonomy level indicates that the entity relies more on its own sensing and processing capabilities to act, rather than reacting solely to external stimuli.
 
 ## Observe
 
