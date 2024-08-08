@@ -25,7 +25,7 @@ The Philosophical aspect delves into the essence of agency, autonomy, and consci
 
 Finally, the Artistic aspect aims to visualize and express the beauty of emergent behaviors and complex systems, capturing the intricate interplay of these elements in a visually engaging manner.
 
-By blending philosophy, art, and technology, Dooders aspires to create a rich, multi-layered, and multi-discipline system that challenges and expands our understanding of intelligence and agency.
+By blending philosophy, art, and technology, Dooders aspires to create a rich, multi-layered, and multi-discipline endeavor that challenges and expands our understanding of intelligence and agency.
 
 - Learn more about the project [foundations](../docs/Foundations.md) like [Agency](../docs/Agency.md), [Neural Networks](../docs/NeuralNetworks.md), or the [Agent-Arena relationship](../docs/Agent-Arena.md).
 - View the [technical](../docs/Goals.md#technical-goals-of-the-dooders-project), [artistic](../docs/Goals.md#artistic-goals-of-the-dooders-project), and [philosophical](../docs/Goals.md#philosophical-goals-of-the-dooders-project) goals.
