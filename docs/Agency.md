@@ -7,13 +7,6 @@ Agency is like a ship at sea. Though it is subject to the whims of the waves and
 
 In this way, agency represents an active effort pushing back against the universe, asserting the crew's intent amidst the vast, indifferent ocean.
 
-### Foundation goals
-
-- Define agency in a general structure
-- Model that definition within a complex and dynamic simulation
-- Measure agency by the volume and complexity of information an agent can process.
-- Observe and analyze agent behavior across various situations.
-
 ## Define
 
 Agency refers to the capacity of entities to sense and process information, enabling them to act independently in accordance with core imperatives. This capacity is not an absolute but exists on a continuum, influenced strongly by the external environment in which these entities operate.
@@ -37,8 +30,6 @@ Components of agency can be broken down into four key elements: sensing, process
 3. **Acting**: This component refers to the execution of actions that influence the environment. After processing the information and making decisions, an entity must act to achieve its goals. The effectiveness of these actions depends on the entity's ability to accurately assess situations and respond appropriately.
 
 4. **Autonomy**: Autonomy represents the degree of independence an entity has in its decision-making and actions. High autonomy means that the entity can operate with minimal external influence or control, relying on its own sensing, processing, and acting capabilities to navigate its environment and achieve its objectives.
-
-### The Arena
 
 The environment in which an agent exists can be conceptualized as an arena, illustrating the dynamic agent-arena relationship.
 
@@ -78,7 +69,7 @@ Signs of agency are indicators that reveal the capacity of an entity to act inde
 
 10. **Persistence**: Continuing efforts towards goals despite obstacles or difficulties. Persistence demonstrates determination and the ability to maintain effort in the face of challenges.
 
-### Analysis
+## Analyze
 Analyzing agency involves evaluating how entities behave and perform under various conditions, using both quantitative and qualitative methods. This can be achieved through scenario-based analysis, the use of quantitative metrics, and qualitative analysis.
 
 ### Scenario-Based Analysis
