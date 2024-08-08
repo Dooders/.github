@@ -79,14 +79,33 @@ Signs of agency are indicators that reveal the capacity of an entity to act inde
 10. **Persistence**: Continuing efforts towards goals despite obstacles or difficulties. Persistence demonstrates determination and the ability to maintain effort in the face of challenges.
 
 ### Analysis
+Analyzing agency involves evaluating how entities behave and perform under various conditions, using both quantitative and qualitative methods. This can be achieved through scenario-based analysis, the use of quantitative metrics, and qualitative analysis.
 
-1. **Scenario-Based Analysis:**
-    - Design different scenarios to test agent behavior under various conditions (e.g., resource scarcity, competition, cooperation).
-    - Measure the agent's performance in achieving its goals.
-2. **Quantitative Metrics:**
-    - **Response Time:** How quickly an agent can sense, process, and act.
-    - **Success Rate:** The percentage of goals achieved over a set period.
-    - **Adaptability Index:** A measure of how well an agent adjusts its behavior in response to environmental changes.
-3. **Qualitative Analysis:**
-    - Observe decision-making patterns and strategies.
-    - Analyze interactions between agents and the environment.
+### Scenario-Based Analysis
+
+1. **Design Different Scenarios**: Create varied conditions to test agent behavior, such as:
+   - **Resource Scarcity**: Assess how an agent manages limited resources.
+   - **Competition**: Evaluate how an agent competes with others for resources or goals.
+   - **Cooperation**: Observe how an agent collaborates with others to achieve mutual goals.
+
+2. **Measure Performance**: Track how well the agent achieves its goals under each scenario. Performance metrics can include efficiency, success rate, and resource management.
+
+### Quantitative Metrics
+
+1. **Response Time**: Measure the speed at which an agent can sense, process information, and take action. This is crucial for evaluating the agent's efficiency and responsiveness.
+
+2. **Success Rate**: Calculate the percentage of goals achieved over a set period. A higher success rate indicates more effective agency.
+
+3. **Adaptability Index**: Assess how well an agent adjusts its behavior in response to environmental changes. This can involve tracking behavioral modifications and their effectiveness in new conditions.
+
+### Qualitative Analysis
+
+1. **Decision-Making Patterns and Strategies**: Observe how an agent makes decisions. This includes:
+   - The complexity of decisions.
+   - The variety of strategies employed.
+   - Consistency in decision-making processes.
+
+2. **Interactions Between Agents and Environment**: Analyze how agents interact with their environment and other agents. This includes:
+   - Communication and information exchange.
+   - Cooperative versus competitive behaviors.
+   - The impact of these interactions on achieving goals.
