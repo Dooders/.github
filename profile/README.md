@@ -2,7 +2,7 @@
 
 Welcome to Dooders, an open-source initiative focused on researching the emergence of intelligent agents within simulated realities. Its mission is to advance the understanding of agency through continuous exploration and experimentation, demonstrating the potential value of agent-based systems learning.
 
-# Approach
+# Current Priorities
 
 - Model the Agent and Arena relationship with [Dooders](https://github.com/Dooders/Dooders):
   - Break down agency into key components such as autonomy, adaptability, problem-solving, social interaction, and self-regulation. Resulting in a complex index score.
@@ -10,7 +10,7 @@ Welcome to Dooders, an open-source initiative focused on researching the emergen
   - Create a dynamic environment where agents face diverse challenges and opportunities, including resource management, environmental changes, and social interactions.
 - Evolutionary Algorithms with [ContinuousEvolution](https://github.com/Dooders/ContinuousEvolution):
   - Developing evolutionary algorithms to drive agent selection. Agents with higher agency—demonstrated through better adaptation, problem-solving, and interaction—will be selected over those with lower agency.
-- Allow for autonamous and independent agents with AnarchyGraph.
+- Enable autonamous and independent agents with [AnarchyGraph](https://github.com/Dooders/AnarchyGraph).
   - Using a decentralized and node-centric graph system where a node has everything it needs to act alone to serve its purpose or do its job.
 - Continuous Optimization:
   - Continuously measure and optimize agents' agency, driving them to discover and exploit new niches in the environment, enhancing their intelligence, adaptability, and overall effectiveness.
