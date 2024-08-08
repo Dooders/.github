@@ -10,7 +10,7 @@ Welcome to Dooders, an open-source initiative focused on researching the emergen
   - Creating a dynamic environment where agents face diverse challenges and opportunities, including resource management, environmental changes, and social interactions.
 - Evolutionary Algorithms with [ContinuousEvolution](https://github.com/Dooders/ContinuousEvolution):
   - Developing evolutionary algorithms to drive agent selection. Agents with higher agency—demonstrated through better adaptation, problem-solving, and interaction—will be selected over those with lower agency.
-- Enable autonamous and independent agents with [AnarchyGraph](https://github.com/Dooders/AnarchyGraph).
+- Autonamous and independent agents with [AnarchyGraph](https://github.com/Dooders/AnarchyGraph).
   - Using a decentralized and node-centric graph system where a node has everything it needs to act alone to serve its purpose or do its job.
 - Continuous Optimization:
   - Measuring and optimizing agents' agency, driving them to discover and exploit new niches in the environment, enhancing their intelligence, adaptability, and overall effectiveness.
