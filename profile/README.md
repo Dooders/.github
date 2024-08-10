@@ -4,18 +4,12 @@ Welcome to Dooders, an open-source initiative focused on researching the emergen
 
 ## Current Priorities
 
-- Agent and Arena relationship with [Dooders](https://github.com/Dooders/Dooders):
-  - Separating agency into key components such as autonomy, adaptability, problem-solving, social interaction, and self-regulation.
-- Physics inspired deterministic worlds with [Fizicks](https://github.com/Dooders/Fizicks):
-  - Modeling reality on the laws of the known universe, including principles such as time and motion.
-- Simulation engine with [TimeBandit](https://github.com/Dooders/TimeBandit):
-  - Developing a library to create and inspect simulations where agents face diverse challenges and opportunities, including resource management, environmental changes, and social interactions.
+- Modeling the Agent and Arena relationship with [Dooders](https://github.com/Dooders/Dooders):
+- Physics inspired deterministic universes with [Fizicks](https://github.com/Dooders/Fizicks):
+- A Temporal simulation engine with [TimeBandit](https://github.com/Dooders/TimeBandit):
 - Evolutionary algorithms with [ContinuousEvolution](https://github.com/Dooders/ContinuousEvolution):
-  - Experimenting with evolutionary algorithms to drive agent selection. Agents with higher agency—demonstrated through better adaptation, problem-solving, and interaction—will be selected over those with lower agency.
 - Autonomous and independent agents with [AnarchyGraph](https://github.com/Dooders/AnarchyGraph):
-  - Utilizing a decentralized, node-centric graph system, where each node possesses all the necessary resources to independently fulfill its purpose or perform tasks.
-- Continuous optimization:
-  - Measuring and optimizing agents' agency, driving them to discover and exploit new niches in the environment, enhancing their intelligence, adaptability, and overall effectiveness.
+
 
 The project is structured around three core aspects: Technical, Philosophical, and Artistic. The technical aspect focuses on leveraging open-source principles, state-of-the-art algorithms, and high-performance architectures.
 
