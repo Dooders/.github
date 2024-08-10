@@ -4,11 +4,11 @@ Welcome to Dooders, an open-source initiative focused on researching the emergen
 
 ## Current Priorities
 
-- Modeling the Agent and Arena relationship with [Dooders](https://github.com/Dooders/Dooders):
-- Physics inspired deterministic universes with [Fizicks](https://github.com/Dooders/Fizicks):
-- A Temporal simulation engine with [TimeBandit](https://github.com/Dooders/TimeBandit):
-- Evolutionary algorithms with [ContinuousEvolution](https://github.com/Dooders/ContinuousEvolution):
-- Autonomous and independent agents with [AnarchyGraph](https://github.com/Dooders/AnarchyGraph):
+- Modeling the Agent and Arena relationship with [Dooders](https://github.com/Dooders/Dooders).
+- Physics inspired deterministic universes with [Fizicks](https://github.com/Dooders/Fizicks).
+- A Temporal simulation engine with [TimeBandit](https://github.com/Dooders/TimeBandit).
+- Evolutionary algorithms with [ContinuousEvolution](https://github.com/Dooders/ContinuousEvolution).
+- Autonomous and independent agents with [AnarchyGraph](https://github.com/Dooders/AnarchyGraph).
 
 
 The project is structured around three core aspects: Technical, Philosophical, and Artistic. The technical aspect focuses on leveraging open-source principles, state-of-the-art algorithms, and high-performance architectures.
