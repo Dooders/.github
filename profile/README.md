@@ -21,14 +21,6 @@ By blending philosophy, art, and technology, Dooders aspires to create a rich, m
 - View the [technical](../docs/Goals.md#technical-goals-of-the-dooders-project), [artistic](../docs/Goals.md#artistic-goals-of-the-dooders-project), and [philosophical](../docs/Goals.md#philosophical-goals-of-the-dooders-project) goals.
 - How you can [contribute](../docs/Contributing.md). Even if you can't code, or want to learn how to.
 
-## Other Projects
-
-### [TemporalObject](https://github.com/Dooders/TemporalObject) ![Project Status](https://img.shields.io/badge/status-in%20development-orange)
-#### A custom object designed to encapsulate an agent, providing a comprehensive state management system with full state history and traversal capabilities
-
-- This container allows for the precise tracking of state changes over time, enabling detailed version control and temporal analysis.
-- Ideal for applications requiring historical data tracking and state buffering, TemporalObject ensures robust and flexible state management for complex simulations.
-
 ## Contributing
 
 Any contributions are welcome! Whether it's bug fixes, new features, or improving documentation, your help is appreciated. Please refer to the CONTRIBUTING.md file in each project repository for guidelines on how to contribute. Or see the general version [here](https://github.com/Dooders/.github/blob/main/CONTRIBUTING.md)
