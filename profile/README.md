@@ -1,6 +1,6 @@
 # Overview
 
-Welcome to Dooders, an open-source initiative focused on researching the emergence of intelligent agents within simulated realities. Its mission is to advance the understanding of agency through continuous exploration and experimentation, demonstrating the potential value of agent-based systems learning.
+Welcome to Dooders, an open-source project researching the emergence of intelligent agents within simulated realities. Its mission is to advance the understanding of agency through continuous exploration and experimentation, demonstrating the potential value of agent-based systems learning.
 
 ## Current Priorities
 
