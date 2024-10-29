@@ -14,7 +14,7 @@ Welcome to Dooders, an open-source project researching the emergence of intellig
 - Evolutionary algorithms with [ContinuousEvolution](https://github.com/Dooders/ContinuousEvolution).
 - Autonomous and independent agents with [AnarchyGraph](https://github.com/Dooders/AnarchyGraph).
 
-
+## Core Perspectives
 The project is structured around three core aspects: Technical, Philosophical, and Artistic. The technical aspect focuses on leveraging open-source principles, state-of-the-art algorithms, and high-performance architectures.
 
 The philosophical aspect delves into the essence of agency, autonomy, and consciousness, exploring fundamental questions about what it means to be an intelligent agent. Finally, the artistic aspect aims to visualize and express the beauty of emergent behaviors and complex systems, capturing the intricate interplay of these elements in a visually engaging manner.
