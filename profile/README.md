@@ -2,7 +2,10 @@
 
 Welcome to Dooders, an open-source project researching the emergence of intelligent agents within simulated realities. Its mission is to advance the understanding of agency through continuous exploration and experimentation, demonstrating the potential value of agent-based systems learning.
 
-## Current Priorities
+## Primary Research
+[Agent-Arena Co-Evolutionary Model](https://rememberization.substack.com/p/out-with-training-in-with-emergence)
+
+## Other Priorities
 
 - Modeling a biological cell with [Pyology](https://github.com/Dooders/Pyology).
 - Exploring the Agent and Arena relationship with [Dooders](https://github.com/Dooders/Dooders).
