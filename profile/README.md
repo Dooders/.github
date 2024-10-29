@@ -21,6 +21,7 @@ The philosophical aspect delves into the essence of agency, autonomy, and consci
 
 By blending philosophy, art, and technology, Dooders aspires to create a rich, multi-layered, and multi-discipline endeavor that challenges and expands our understanding of intelligence and agency.
 
+## Learn More
 - Learn more about the project [foundations](../docs/Foundations.md) like [Agency](../docs/Agency.md), [Neural Networks](../docs/NeuralNetworks.md), or the [Agent-Arena relationship](../docs/Agent-Arena.md).
 - View the [technical](../docs/Goals.md#technical-goals-of-the-dooders-project), [artistic](../docs/Goals.md#artistic-goals-of-the-dooders-project), and [philosophical](../docs/Goals.md#philosophical-goals-of-the-dooders-project) goals.
 - How you can [contribute](../docs/Contributing.md). Even if you can't code, or want to learn how to.
