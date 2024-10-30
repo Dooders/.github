@@ -3,7 +3,8 @@
 Welcome to Dooders, an open-source project researching the emergence of intelligent agents within simulated realities. Its mission is to advance the understanding of agency through continuous exploration and experimentation, demonstrating the potential value of agent-based systems learning.
 
 ## Primary Research
-[Agent-Arena Co-Evolutionary Model](https://rememberization.substack.com/p/out-with-training-in-with-emergence)
+* [Agent-Arena Co-Evolutionary Model](https://rememberization.substack.com/p/out-with-training-in-with-emergence)
+  * [Investigating Convergence of Neural Network Models to Similar Solutions](https://github.com/Dooders/Experiments/blob/main/Investigating%20Convergence%20of%20Neural%20Network%20Models%20to%20Similar%20Solutions.md)
 
 ## Other Priorities
 
