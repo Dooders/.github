@@ -4,7 +4,6 @@ Welcome to Dooders, an open-source project researching the emergence of intellig
 
 ## Primary Research
 * [Agent-Arena Co-Evolutionary Model](https://rememberization.substack.com/p/out-with-training-in-with-emergence)
-  * [Investigating Convergence of Neural Network Models to Similar Solutions](https://github.com/Dooders/Experiments/tree/main/SolutionSpace)
 
 ## Other Priorities
 
