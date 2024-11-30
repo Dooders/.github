@@ -1,6 +1,6 @@
 # Overview
 
-Welcome to Dooders, an open-source project researching the emergence of intelligent agents within simulated realities. Its mission is to advance the understanding of agency through continuous exploration and experimentation, demonstrating the potential value of agent-based systems learning.
+Welcome to Dooders, an open-source project researching the emergence of intelligent agents within a computational model of reality. Its mission is to advance the understanding of agency through continuous exploration and experimentation, demonstrating the potential value of agent-based systems learning.
 
 ## Primary Research
 * [Agent-Arena Co-Evolutionary Model](https://rememberization.substack.com/p/out-with-training-in-with-emergence)
@@ -14,18 +14,6 @@ Welcome to Dooders, an open-source project researching the emergence of intellig
 - A Temporal simulation engine with [TimeBandit](https://github.com/Dooders/TimeBandit).
 - Evolutionary algorithms with [ContinuousEvolution](https://github.com/Dooders/ContinuousEvolution).
 - Autonomous and independent agents with [AnarchyGraph](https://github.com/Dooders/AnarchyGraph).
-
-## Core Perspectives
-The project is structured around three core aspects: Technical, Philosophical, and Artistic. The technical aspect focuses on leveraging open-source principles, state-of-the-art algorithms, and high-performance architectures.
-
-The philosophical aspect delves into the essence of agency, autonomy, and consciousness, exploring fundamental questions about what it means to be an intelligent agent. Finally, the artistic aspect aims to visualize and express the beauty of emergent behaviors and complex systems, capturing the intricate interplay of these elements in a visually engaging manner.
-
-By blending philosophy, art, and technology, Dooders aspires to create a rich, multi-layered, and multi-discipline endeavor that challenges and expands our understanding of intelligence and agency.
-
-## Learn More
-- Learn more about the project [foundations](../docs/Foundations.md) like [Agency](../docs/Agency.md), [Neural Networks](../docs/NeuralNetworks.md), or the [Agent-Arena relationship](../docs/Agent-Arena.md).
-- View the [technical](../docs/Goals.md#technical-goals-of-the-dooders-project), [artistic](../docs/Goals.md#artistic-goals-of-the-dooders-project), and [philosophical](../docs/Goals.md#philosophical-goals-of-the-dooders-project) goals.
-- How you can [contribute](../docs/Contributing.md). Even if you can't code, or want to learn how to.
 
 ## Contributing
 
