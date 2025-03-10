@@ -4,6 +4,7 @@ Welcome to Dooders, an open-source project researching the emergence of intellig
 
 ## Primary Research
 * [Agent-Arena Co-Evolutionary Model](https://rememberization.substack.com/p/out-with-training-in-with-emergence)
+  * [The Impact of Initial Conditions on Agent Dominance in Multi-Agent Simulations](https://github.com/Dooders/AgentFarm/blob/main/docs/experiments/one_of_a_kind/Findings.md)
 
 ## Other Priorities
 
