@@ -6,8 +6,9 @@ Welcome to Dooders, an open-source project researching the emergence of intellig
 * [Agent-Arena Co-Evolutionary Model](https://rememberization.substack.com/p/out-with-training-in-with-emergence)
   * [The Impact of Initial Conditions on Agent Dominance in Multi-Agent Simulations](https://github.com/Dooders/AgentFarm/blob/main/docs/experiments/one_of_a_kind/Findings.md)
 
-## Other Priorities
+## Other Work
 
+- Platform for multi-agent systems research with [AgentFarm](https://github.com/Dooders/AgentFarm)
 - Modeling a biological cell with [Pyology](https://github.com/Dooders/Pyology).
 - Exploring the Agent and Arena relationship with [Dooders](https://github.com/Dooders/Dooders).
 - Physics inspired universes with [Fizicks](https://github.com/Dooders/Fizicks).
