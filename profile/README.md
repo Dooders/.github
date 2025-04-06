@@ -8,7 +8,7 @@ Welcome to Dooders, an open-source project researching the emergence of intellig
 
 ## Ongoing Development
 - Platform for multi-agent systems research with [AgentFarm](https://github.com/Dooders/AgentFarm)
-- A modular memory backend for AI agents, enabling temporal storage, retrieval with [AgentMemory](https://github.com/Dooders/AgentMemory).
+- A modular memory backend for AI agents with [AgentMemory](https://github.com/Dooders/AgentMemory).
 - Modeling a biological cell with [Pyology](https://github.com/Dooders/Pyology).
 - Exploring the Agent and Arena relationship with [Dooders](https://github.com/Dooders/Dooders).
 - Physics inspired universes with [Fizicks](https://github.com/Dooders/Fizicks).
