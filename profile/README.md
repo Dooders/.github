@@ -2,12 +2,24 @@
 
 Welcome to Dooders, an open-source project researching the emergence of intelligent agents within a computational model of reality. Its mission is to advance the understanding of agency through continuous exploration and experimentation, demonstrating the potential value of agent-based systems learning.
 
-## Primary Research
+  *All research and development is in the early stages.*
+
+## Research Proposals & Directions
 * [Agent-Arena Co-Evolutionary Model](https://rememberization.substack.com/p/out-with-training-in-with-emergence)
-  * [The Impact of Initial Conditions on Agent Dominance in Multi-Agent Simulations](https://github.com/Dooders/AgentFarm/blob/main/docs/experiments/one_of_a_kind/Findings.md)
+  * [AgentMeaning](https://github.com/Dooders/AgentMeaning)
+    * [Adversarial Meaning Robustness](/proposals/adversarial_meaning_robustness_proposal.md)*
+    * [Attention Mechanisms in Meaning Preservation](/proposals/attention_mechanisms_proposal.md)*
+    * [Agent Memory Sharing](/proposals/agent_memory_sharing_proposal.md)*
+    * [Counterfactual Meaning Testing](/proposals/counterfactual_meaning_testing_proposal.md)*
+    * [Explainable Meaning Transformation](/proposals/explainable_meaning_transformation_proposal.md)*
+    * [Hierarchical Meaning Representation](/proposals/hierarchical_meaning_proposal.md)*
+    * [Multi-Modal Semantic Compression](/proposals/multi_modal_semantic_compression_proposal.md)*
+
+
+**Proposal stage*
 
 ## Ongoing Development
-- Platform for multi-agent systems research with [AgentFarm](https://github.com/Dooders/AgentFarm)
+- Research platform for multi-agent systems with [AgentFarm](https://github.com/Dooders/AgentFarm)
 - A modular memory backend for AI agents with [AgentMemory](https://github.com/Dooders/AgentMemory).
 - Modeling a biological cell with [Pyology](https://github.com/Dooders/Pyology).
 - Exploring the Agent and Arena relationship with [Dooders](https://github.com/Dooders/Dooders).
