@@ -4,7 +4,7 @@ Welcome to Dooders, an open-source project researching the emergence of intellig
 
   *All research and development is in the early stages.*
 
-## Research Proposals & Directions
+<!-- ## Research Proposals & Directions
 * [Agent-Arena Co-Evolutionary Model](https://rememberization.substack.com/p/out-with-training-in-with-emergence)
   * [AgentMeaning](https://github.com/Dooders/AgentMeaning)
     * [Adversarial Meaning Robustness](/proposals/adversarial_meaning_robustness_proposal.md)*
@@ -13,10 +13,10 @@ Welcome to Dooders, an open-source project researching the emergence of intellig
     * [Counterfactual Meaning Testing](/proposals/counterfactual_meaning_testing_proposal.md)*
     * [Explainable Meaning Transformation](/proposals/explainable_meaning_transformation_proposal.md)*
     * [Hierarchical Meaning Representation](/proposals/hierarchical_meaning_proposal.md)*
-    * [Multi-Modal Semantic Compression](/proposals/multi_modal_semantic_compression_proposal.md)*
+    * [Multi-Modal Semantic Compression](/proposals/multi_modal_semantic_compression_proposal.md)* -->
 
 
-**Proposal stage*
+<!-- **Proposal stage* -->
 
 ## Ongoing Development
 - Research platform for multi-agent systems with [AgentFarm](https://github.com/Dooders/AgentFarm)
