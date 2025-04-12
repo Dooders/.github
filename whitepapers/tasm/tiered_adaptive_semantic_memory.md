@@ -124,6 +124,7 @@ Full State → Encoder → Latent Representation → Decoder → Reconstructed S
 - **Episodic Memory**: Recall of contextually rich experiences  
 - **Associative Recall**: Finding related experiences across different scenarios  
 - **Counterfactual Reasoning**: Modifying memories to explore alternatives  
+  - *Vector Space Operations*: Performing algebraic transformations on latent vectors to simulate hypothetical future states (e.g., v_future = v_current + (v_action_effect - v_baseline))
 - **Experience Generalization**: Identifying patterns across multiple memories  
 
 ### Development Advantages
@@ -168,4 +169,4 @@ Full State → Encoder → Latent Representation → Decoder → Reconstructed S
 
 The Tiered Adaptive Semantic Memory (TASM) system represents a fundamental shift from traditional agent memory systems. By focusing on the meaning and relationships between experiences rather than their raw representations, it creates more human-like memory capabilities that support sophisticated reasoning, learning, and adaptation.
 
-> TASM’s effectiveness will depend on navigating challenges in training, compression fidelity, memory retention, and evaluation—but its potential for scalable, semantically rich memory makes it a powerful direction for next-gen intelligent agents.
+> TASM's effectiveness will depend on navigating challenges in training, compression fidelity, memory retention, and evaluation—but its potential for scalable, semantically rich memory makes it a powerful direction for next-gen intelligent agents.
