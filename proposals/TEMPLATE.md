@@ -1,4 +1,4 @@
-# [Title]: A Research Proposal
+# [Title]
 
 ## Problem Statement
 [Describe the problem this proposal addresses, its significance, and why current approaches are insufficient.]
