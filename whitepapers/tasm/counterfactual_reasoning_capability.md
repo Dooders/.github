@@ -26,7 +26,7 @@ This capacity underpins human imagination, planning, learning from mistakes, and
 
 ## Enabling Counterfactual Reasoning through Embeddings
 
-The semantic memory architecture creates a technical foundation for counterfactual reasoning through several key mechanisms:
+TASM architecture creates a technical foundation for counterfactual reasoning through several key mechanisms:
 
 ### 1. Continuous Representation Space
 
@@ -215,6 +215,7 @@ By leveraging the continuous, manipulable nature of embedding spaces combined wi
 
 This capability doesn't just improve agent performance—it fundamentally transforms the nature of machine intelligence, bringing it closer to the flexible, imaginative reasoning that characterizes human cognition. As these systems mature, we can expect agents with unprecedented abilities to learn efficiently, adapt rapidly, and operate effectively in novel environments.
 
+---
 
 ## References
 

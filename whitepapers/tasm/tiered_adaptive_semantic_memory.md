@@ -135,6 +135,31 @@ Full State → Encoder → Latent Representation → Decoder → Reconstructed S
 
 ---
 
+## Evaluation Framework
+
+To support TASM development and validation, we propose a multi-metric evaluation framework:
+
+- **Semantic Retrieval Accuracy**: Precision/recall of memory retrieval in similar contexts  
+- **Reconstruction Error**: L2 or perceptual loss between original and reconstructed states  
+- **Compression Ratio**: Size of latent vector vs. full state representation  
+- **Diversity Index**: Measure of how well memory captures a range of agent experiences  
+- **Recall of Rare Events**: Retention rate of semantically unique but infrequent states
+
+---
+
+## Comparative Positioning
+
+| System | Stores Semantic Content | Supports Reconstruction | Adaptive Feature Weighting | Hierarchical Memory | Counterfactual Ops |
+|--------|--------------------------|--------------------------|--------------------|----------------------|---------------------|
+| TASM   | ✅ Yes                 | ✅ Yes                 | ✅ Yes           | ✅ Yes             | ✅ Yes            |
+| Replay Buffer | ❌ No            | ❌ No                  | ❌ No            | ❌ No              | ❌ No             |
+| Episodic Control | ✅ Partial     | ❌ No                  | ❌ No            | ❌ No              | ❌ No             |
+| DNC / Neural Map | ✅ Yes         | ✅ Yes                 | ❌ No            | ✅ Yes             | ❌ No             |
+
+TASM distinguishes itself by unifying semantic storage, bi-directional state reconstruction, and high-level vector reasoning in one system.
+
+---
+
 ## Challenges and Considerations
 
 | Category                   | Description                                                                 |
@@ -262,3 +287,4 @@ _UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction._
 _Visualizing Data using t-SNE._  
 *Journal of Machine Learning Research*, 9(Nov), 2579–2605.  
 [http://jmlr.org/papers/v9/vandermaaten08a.html](http://jmlr.org/papers/v9/vandermaaten08a.html)
+
