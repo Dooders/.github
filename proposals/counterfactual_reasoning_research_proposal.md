@@ -1,6 +1,6 @@
 # Embedding-Based Counterfactual Reasoning for Intelligent Agent Systems
 
-> For a detailed conceptual overview of counterfactual reasoning capabilities, see [Counterfactual Reasoning Capability Whitepaper](../whitepapers/counterfactual_reasoning_capability.md).
+> For a detailed conceptual overview of counterfactual reasoning capabilities, see [Counterfactual Reasoning Capability Whitepaper](../whitepapers/tasm/counterfactual_reasoning_capability.md).
 
 ## Problem Statement
 

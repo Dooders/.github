@@ -6,6 +6,8 @@ Counterfactual reasoning—the ability to reason about "what might have been" or
 
 > For a detailed research plan on implementing counterfactual reasoning systems, see the [Counterfactual Reasoning Research Proposal](../proposals/counterfactual_reasoning_research_proposal.md).
 
+> For an introduction to tiered adaptive semantic memory (TASM) systems, see the [Whitepaper](tiered_adaptive_semantic_memory.md).
+
 ## Conceptual Foundation
 
 ### The Nature of Counterfactual Thinking
@@ -211,4 +213,61 @@ Counterfactual reasoning represents a quantum leap in agent capabilities—movin
 
 By leveraging the continuous, manipulable nature of embedding spaces combined with the generative capabilities of autoencoders, this architecture bridges the gap between memory and imagination. The result is an agent with dramatically enhanced abilities for planning, adaptation, creativity, and explanation.
 
-This capability doesn't just improve agent performance—it fundamentally transforms the nature of machine intelligence, bringing it closer to the flexible, imaginative reasoning that characterizes human cognition. As these systems mature, we can expect agents with unprecedented abilities to learn efficiently, adapt rapidly, and operate effectively in novel environments. 
+This capability doesn't just improve agent performance—it fundamentally transforms the nature of machine intelligence, bringing it closer to the flexible, imaginative reasoning that characterizes human cognition. As these systems mature, we can expect agents with unprecedented abilities to learn efficiently, adapt rapidly, and operate effectively in novel environments.
+
+
+## References
+
+### **Foundational Works on Counterfactual Reasoning**
+
+- Pearl, J. (2009). *Causality: Models, Reasoning, and Inference (2nd ed.)*. Cambridge University Press.
+
+- Pearl, J., & Mackenzie, D. (2018). *The Book of Why: The New Science of Cause and Effect*. Basic Books.
+
+---
+
+### **Embedding-Based Memory and Representation Learning**
+
+- Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. *arXiv preprint arXiv:1301.3781*. https://arxiv.org/abs/1301.3781
+
+- Bengio, Y., Courville, A., & Vincent, P. (2013). Representation learning: A review and new perspectives. *IEEE Transactions on Pattern Analysis and Machine Intelligence, 35*(8), 1798-1828.
+
+---
+
+### **Counterfactual Explanations in AI**
+
+- Wachter, S., Mittelstadt, B., & Russell, C. (2017). Counterfactual explanations without opening the black box: Automated decisions and the GDPR. *Harvard Journal of Law & Technology, 31*(2), 841-887. https://doi.org/10.2139/ssrn.3063289
+
+- Verma, S., & Rubin, J. (2018). Counterfactual explanations for machine learning: A review. *arXiv preprint arXiv:2010.10596*. https://arxiv.org/abs/2010.10596
+
+---
+
+### **Autoencoders and Latent Space Manipulation**
+
+- Kingma, D. P., & Welling, M. (2014). Auto-encoding variational Bayes. *arXiv preprint arXiv:1312.6114*. https://arxiv.org/abs/1312.6114
+
+- Higgins, I., Matthey, L., Pal, A., Burgess, C., Glorot, X., Botvinick, M., ... & Lerchner, A. (2017). Beta-VAE: Learning basic visual concepts with a constrained variational framework. *International Conference on Learning Representations (ICLR)*. https://openreview.net/forum?id=Sy2fzU9gl
+
+---
+
+### **Memory-Augmented Neural Networks**
+
+- Graves, A., Wayne, G., Reynolds, M., Harley, T., Danihelka, I., Grabska-Barwińska, A., ... & Hassabis, D. (2016). Hybrid computing using a neural network with dynamic external memory. *Nature, 538*(7626), 471-476. https://doi.org/10.1038/nature20101
+
+- Sukhbaatar, S., Weston, J., Fergus, R., et al. (2015). End-to-end memory networks. *Advances in Neural Information Processing Systems (NeurIPS)*, 28. https://arxiv.org/abs/1503.08895
+
+---
+
+### **Computational Cognitive Science and Human-like Reasoning**
+
+- Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2017). Building machines that learn and think like people. *Behavioral and Brain Sciences, 40*, e253. https://doi.org/10.1017/S0140525X16001837
+
+- Kahneman, D., & Tversky, A. (1982). The simulation heuristic. In D. Kahneman, P. Slovic, & A. Tversky (Eds.), *Judgment under uncertainty: Heuristics and biases* (pp. 201-208). Cambridge University Press.
+
+---
+
+### **Evaluating and Validating Counterfactuals**
+
+- Byrne, R. M. (2016). Counterfactual thought. *Annual Review of Psychology, 67*, 135-157. https://doi.org/10.1146/annurev-psych-122414-033249
+
+- Lewis, D. (1973). Counterfactuals. *Harvard University Press.*

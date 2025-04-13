@@ -3,7 +3,7 @@
 
 ## Overview
 
-TASM creates a sophisticated memory system for intelligent agents that captures the semantic essence of experiences while providing bidirectional translation between detailed states and compressed representations. By combining transformation pipelines with autoencoder networks, agents can efficiently store, retrieve, and reconstruct experiences based on their meaningful content rather than arbitrary storage patterns.
+TASM creates a memory system for intelligent agents that captures the semantic essence of experiences while providing bidirectional translation between detailed states and compressed representations. By combining transformation pipelines with autoencoder networks, agents can efficiently store, retrieve, and reconstruct experiences based on their meaningful content rather than arbitrary storage patterns.
 
 > _Note: TASM's design is subject to key open challenges, including the fidelity–compression tradeoff, catastrophic forgetting, and high training requirements (see [Challenges](#challenges-and-considerations))._
 
@@ -125,6 +125,7 @@ Full State → Encoder → Latent Representation → Decoder → Reconstructed S
 - **Associative Recall**: Finding related experiences across different scenarios  
 - **Counterfactual Reasoning**: Modifying memories to explore alternatives  
   - *Vector Space Operations*: Performing algebraic transformations on latent vectors to simulate hypothetical future states (e.g., v_future = v_current + (v_action_effect - v_baseline))
+  - *For a detailed explanation, see [Counterfactual Reasoning Capability](counterfactual_reasoning_capability.md)*
 - **Experience Generalization**: Identifying patterns across multiple memories  
 
 ### Development Advantages
@@ -146,7 +147,7 @@ Full State → Encoder → Latent Representation → Decoder → Reconstructed S
 
 ---
 
-## Evolutionary Path
+## Research Path
 
 ### Initial Implementation
 - Basic embedding pipeline without autoencoder  
@@ -167,6 +168,97 @@ Full State → Encoder → Latent Representation → Decoder → Reconstructed S
 
 ## Conclusion
 
-The Tiered Adaptive Semantic Memory (TASM) system represents a fundamental shift from traditional agent memory systems. By focusing on the meaning and relationships between experiences rather than their raw representations, it creates more human-like memory capabilities that support sophisticated reasoning, learning, and adaptation.
+The Tiered Adaptive Semantic Memory (TASM) system represents a potential shift from traditional agent memory systems. By focusing on the meaning and relationships between experiences rather than their raw representations, it creates more human-like memory capabilities that support sophisticated reasoning, learning, and adaptation.
 
 > TASM's effectiveness will depend on navigating challenges in training, compression fidelity, memory retention, and evaluation—but its potential for scalable, semantically rich memory makes it a powerful direction for next-gen intelligent agents.
+
+---
+
+## References
+
+### Semantic Embeddings and Representation Learning
+
+- **Reimers, N., & Gurevych, I. (2019).**  
+_Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks._  
+*Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing*, 3982–3992.  
+[https://doi.org/10.18653/v1/D19-1410](https://doi.org/10.18653/v1/D19-1410)
+
+- **Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019).**  
+_BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding._  
+*NAACL-HLT 2019*.  
+[https://doi.org/10.18653/v1/N19-1423](https://doi.org/10.18653/v1/N19-1423)
+
+---
+
+### Autoencoder Architectures and Compression
+
+- **Kingma, D. P., & Welling, M. (2014).**  
+_Auto-Encoding Variational Bayes._  
+*Proceedings of the International Conference on Learning Representations (ICLR)*.  
+[https://arxiv.org/abs/1312.6114](https://arxiv.org/abs/1312.6114)
+
+- **Higgins, I., Matthey, L., Pal, A., Burgess, C., Glorot, X., Botvinick, M., ... & Lerchner, A. (2017).**  
+_beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework._  
+*Proceedings of ICLR 2017*.  
+[https://openreview.net/forum?id=Sy2fzU9gl](https://openreview.net/forum?id=Sy2fzU9gl)
+
+- **Vincent, P., Larochelle, H., Lajoie, I., Bengio, Y., & Manzagol, P. A. (2010).**  
+_Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion._  
+*Journal of Machine Learning Research*, 11(Dec), 3371–3408.  
+[http://jmlr.org/papers/v11/vincent10a.html](http://jmlr.org/papers/v11/vincent10a.html)
+
+---
+
+### Memory Retrieval and Vector Similarity Search
+
+- **Johnson, J., Douze, M., & Jégou, H. (2021).**  
+_Billion-scale similarity search with GPUs._  
+*IEEE Transactions on Big Data*, 7(3), 535–547.  
+[https://doi.org/10.1109/TBDATA.2019.2921572](https://doi.org/10.1109/TBDATA.2019.2921572)
+
+- **Malkov, Y. A., & Yashunin, D. A. (2020).**  
+_Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs._  
+*IEEE Transactions on Pattern Analysis and Machine Intelligence*, 42(4), 824–836.  
+[https://doi.org/10.1109/TPAMI.2018.2889473](https://doi.org/10.1109/TPAMI.2018.2889473)
+
+---
+
+### Memory Consolidation and Catastrophic Forgetting
+
+- **Parisi, G. I., Kemker, R., Part, J. L., Kanan, C., & Wermter, S. (2019).**  
+_Continual Lifelong Learning with Neural Networks: A Review._  
+*Neural Networks*, 113, 54–71.  
+[https://doi.org/10.1016/j.neunet.2019.01.012](https://doi.org/10.1016/j.neunet.2019.01.012)
+
+- **Kirkpatrick, J., Pascanu, R., Rabinowitz, N., Veness, J., Desjardins, G., Rusu, A. A., ... & Hadsell, R. (2017).**  
+_Overcoming catastrophic forgetting in neural networks._  
+*Proceedings of the National Academy of Sciences*, 114(13), 3521–3526.  
+[https://doi.org/10.1073/pnas.1611835114](https://doi.org/10.1073/pnas.1611835114)
+
+---
+
+### Contrastive Learning for Semantic Structure
+
+- **Chen, T., Kornblith, S., Norouzi, M., & Hinton, G. (2020).**  
+_A Simple Framework for Contrastive Learning of Visual Representations._  
+*Proceedings of the 37th International Conference on Machine Learning (ICML)*, PMLR 119, 1597–1607.  
+[https://arxiv.org/abs/2002.05709](https://arxiv.org/abs/2002.05709)
+
+- **Oord, A. V. D., Li, Y., & Vinyals, O. (2018).**  
+_Representation Learning with Contrastive Predictive Coding._  
+*arXiv preprint arXiv:1807.03748.*  
+[https://arxiv.org/abs/1807.03748](https://arxiv.org/abs/1807.03748)
+
+---
+
+### Dimensionality Reduction and Embedding Visualization
+
+- **McInnes, L., Healy, J., & Melville, J. (2018).**  
+_UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction._  
+*arXiv preprint arXiv:1802.03426.*  
+[https://arxiv.org/abs/1802.03426](https://arxiv.org/abs/1802.03426)
+
+- **van der Maaten, L., & Hinton, G. (2008).**  
+_Visualizing Data using t-SNE._  
+*Journal of Machine Learning Research*, 9(Nov), 2579–2605.  
+[http://jmlr.org/papers/v9/vandermaaten08a.html](http://jmlr.org/papers/v9/vandermaaten08a.html)
